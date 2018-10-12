@@ -1,3 +1,0 @@
-2018-10-12 21:34:09,133 DEBUG    root            Loaded Command Group: [u'gcloud', u'compute']
-2018-10-12 21:34:09,420 DEBUG    root            Loaded Command Group: [u'gcloud', u'compute', u'copy_files']
-2018-10-12 21:34:09,425 ERROR    root            (gcloud.compute.copy-files) argument [[USER@]INSTANCE:]SRC [[[USER@]INSTANCE:]SRC ...] [[USER@]INSTANCE:]DEST: Must be specified.
